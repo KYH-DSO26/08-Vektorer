@@ -2,4 +2,5 @@
   <Project Path="01 Namnlistan/01 Namnlistan.csproj" />
   <Project Path="02 Inköpslistan på rad/02 Inköpslistan på rad.csproj" />
   <Project Path="03 Gästlistan/03 Gästlistan.csproj" />
+  <Project Path="04 Temperaturer/04 Temperaturer.csproj" />
 </Solution>
