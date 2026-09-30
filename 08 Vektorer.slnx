@@ -10,4 +10,8 @@
   <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" />
   <Project Path="10 Användarhantering (Ta bort från List)/10 Användarhantering (Ta bort från List).csproj" />
   <Project Path="11 Detektiven (Duplikat)/11 Detektiven (Duplikat).csproj" />
+  <Project Path="12 Inmatning till fast array/12 Inmatning till fast array.csproj" />
+  <Project Path="13 Den växande arrayen/13 Den växande arrayen.csproj" />
+  <Project Path="14 Rullande logg/14 Rullande logg.csproj" />
+  <Project Path="15 Array-rotation utan extra minne/15 Array-rotation utan extra minne.csproj" />
 </Solution>
