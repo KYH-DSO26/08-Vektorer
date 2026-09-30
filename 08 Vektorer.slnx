@@ -3,4 +3,6 @@
   <Project Path="02 Inköpslistan på rad/02 Inköpslistan på rad.csproj" />
   <Project Path="03 Gästlistan/03 Gästlistan.csproj" />
   <Project Path="04 Temperaturer/04 Temperaturer.csproj" />
+  <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" />
+  <Project Path="06 Dynamisk inköpslista/06 Dynamisk inköpslista.csproj" />
 </Solution>
