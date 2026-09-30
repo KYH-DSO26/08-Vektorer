@@ -8,4 +8,6 @@
   <Project Path="07 Sök i vektorn/07 Sök i vektorn.csproj" />
   <Project Path="08 Betygskollen (Medelvärde)/08 Betygskollen (Medelvärde).csproj" />
   <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" />
+  <Project Path="10 Användarhantering (Ta bort från List)/10 Användarhantering (Ta bort från List).csproj" />
+  <Project Path="11 Detektiven (Duplikat)/11 Detektiven (Duplikat).csproj" />
 </Solution>
