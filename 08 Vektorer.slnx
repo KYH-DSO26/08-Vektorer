@@ -5,4 +5,7 @@
   <Project Path="04 Temperaturer/04 Temperaturer.csproj" />
   <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" />
   <Project Path="06 Dynamisk inköpslista/06 Dynamisk inköpslista.csproj" />
+  <Project Path="07 Sök i vektorn/07 Sök i vektorn.csproj" />
+  <Project Path="08 Betygskollen (Medelvärde)/08 Betygskollen (Medelvärde).csproj" />
+  <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" />
 </Solution>
